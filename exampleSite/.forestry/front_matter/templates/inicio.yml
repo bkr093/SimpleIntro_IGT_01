@@ -8,3 +8,5 @@ fields:
     required: false
   label: BIENVENID@
   description: Hola, aqui la descripción general<br>
+pages:
+- exampleSite/content/20210108_r00.md
