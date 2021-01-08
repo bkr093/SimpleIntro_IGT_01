@@ -1,4 +1,10 @@
 ---
 label: INICIO
 hide_body: true
-fields: []
+fields:
+- name: bienvenid_
+  type: text
+  config:
+    required: false
+  label: BIENVENID@
+  description: Hola, aqui la descripción general<br>
